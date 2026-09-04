@@ -1,20 +1,20 @@
-# 공장 상태 (자동 - 5분 주기)
+﻿# 공장 상태 (자동 - 5분 주기)
 
 생성: 
-2026-09-05 07:29:41
+2026-09-05 07:30:41
 
 ## 맥박
-09-05 07:28 | main=도는중 wt2=멈춤103분/미커밋3 wt3=멈춤45분/미커밋5 wt4=15분전 | 도는배치=못쟀다 | 큐=1 | 러너=산다 | ntfy=4분전 | 저장소=4분전
+09-05 07:29 | main=떴는데안움직임1024분 wt2=떴는데안움직임1312분 wt3=떴는데안움직임1342분 wt4=떴는데안움직임1312분 | 도는배치=없음 | 큐=0 | 러너=산다 | ntfy=5분전 | 저장소=5분전
 
 ## 최근 보고 (최대 5)
-- 09-05 05:00 batch-215 ok [kipi-wt3]
-- 09-05 05:17 batch-216 ok [kipi-wt4]
-- 09-05 05:30 batch-217 ok [kipi-wt3]
-- 09-05 06:15 batch-219 ok [kipi-wt3]
-- 09-05 07:14 batch-220 ok [kipi-wt4]
+- 09-04 09:02 batch-670 ok [meerkat-committee]
+- 09-04 09:27 batch-667 ok [meerkat-committee]
+- 09-04 09:33 batch-668 ok [meerkat-committee]
+- 09-04 10:41 batch-671 ok [meerkat-committee]
+- 09-04 14:14 batch-672 ok [meerkat-committee]
 
 ## 라이브
 - origin/main: 
-bbb9bc2
+7d8ee09
 - 미커밋: 
-35
+0
