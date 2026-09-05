@@ -1,1 +1,1 @@
-﻿retry-test: 2026-09-06 03:20:21 (batch-719 [1] ?ㅼ륫 - 吏?곗? ?딆쓬, ?ㅼ쓬 ?ㅼ젣 bus-push 媛 ??뼱?)
+﻿retry-attempt: 2026-09-06 03:21:01 (batch-719 retry test2 - recovered)
