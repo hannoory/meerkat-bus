@@ -1,20 +1,20 @@
-﻿# 공장 상태 (자동 - 5분 주기)
+# 공장 상태 (자동 - 5분 주기)
 
 생성: 
-2026-09-09 01:08:48
+2026-09-09 01:09:06
 
 ## 맥박
-09-09 01:08 | main=일하는중 wt2=떴는데안움직임44분 wt3=일하는중 wt4=쉼39분 | 도는배치=843,850,853,855 | 큐=2 | 러너=산다 | ntfy=24분전 | 저장소=0분전 | 실패=0
+09-09 01:05 | main=멈춤30분/미커밋34(추적0·미추적34) wt2=일하는중 wt3=떴는데안움직임(대화34분전, 배치나이아님) wt4=일하는중 귀속못함=452 | 도는배치=452 | 끝난창=446,447,450 | 큐=0 | 러너=산다(★옛코드 245분째: 레인바쁨:wt2=집어감) | 알림=정상(성공 1분전) | 저장소=1분전
 
 ## 최근 보고 (최대 5)
-- 09-09 00:53 batch-853 blocked [meerkat-committee]
-- 09-09 00:56 batch-853 ok [meerkat-committee]
-- 09-09 00:59 batch-855 blocked [meerkat-committee]
-- 09-09 01:00 batch-850 blocked [meerkat-wt3]
-- 09-09 01:05 batch-855 blocked [meerkat-committee]
+- 09-09 00:27 batch-447 ok [kipi-wt3]
+- 09-09 00:42 batch-450 blocked [kipi-wt4]
+- 09-09 00:44 batch-452 blocked [kipi-wt2]
+- 09-09 00:58 batch-450 ok [kipi-wt4]
+- 09-09 01:07 batch-452 blocked [kipi-wt2]
 
 ## 라이브
 - origin/main: 
-80a6a26
+96586ac
 - 미커밋: 
-2
+35
