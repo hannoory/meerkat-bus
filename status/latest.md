@@ -1,17 +1,17 @@
 ﻿# 공장 상태 (자동 - 5분 주기)
 
 생성: 
-2026-09-09 02:19:38
+2026-09-09 02:23:55
 
 ## 맥박
 09-09 02:19 | main=11분전 wt2=떴는데안움직임115분 wt3=일하는중 wt4=떴는데안움직임31분 | 도는배치=857,858 | 큐=2 | 러너=산다 | ntfy=9분전 | 저장소=0분전 | 실패=0
 
 ## 최근 보고 (최대 5)
-- 09-09 02:00 batch-858 blocked [meerkat-wt3]
 - 09-09 02:03 batch-857 blocked [meerkat-committee]
 - 09-09 02:05 batch-858 blocked [meerkat-wt3]
 - 09-09 02:10 batch-857 ok [meerkat-committee]
 - 09-09 02:13 batch-858 blocked [meerkat-wt3]
+- 09-09 02:20 batch-859 blocked [meerkat-wt4]
 
 ## 라이브
 - origin/main: 
