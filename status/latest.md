@@ -1,20 +1,20 @@
-﻿# 공장 상태 (자동 - 5분 주기)
+# 공장 상태 (자동 - 5분 주기)
 
 생성: 
-2026-09-14 21:39:27
+2026-09-14 21:44:35
 
 ## 맥박
-09-14 21:35 | main=떴는데안움직임5101분 wt2=일하는중 wt3=떴는데안움직임5713분 wt4=떴는데안움직임5896분 | 도는배치=923 | 큐=0 | 러너=산다 | ntfy=8분전 | 저장소=1분전 | 실패=1건/wt2
+09-14 21:42 | main=9분전 wt2=도는중 wt3=도는중 wt4=도는중[왜:미커밋 1개: .omc-540-regression-full.txt] | 도는배치=538 | 큐=1 | 러너=산다(★옛코드 5분째: 큐안비었음) | 알림=정상(성공 4분전) | ntfy오늘=30/150·억제19 | 저장소=3분전 | 라이브=최신(문서만 21커밋 앞섬)
 
 ## 최근 보고 (최대 5)
-- 09-10 21:21 batch-920 ok [meerkat-wt3]
-- 09-10 22:00 batch-921 blocked [meerkat-committee]
-- 09-10 22:18 batch-922 ok [meerkat-committee]
-- 09-10 22:40 batch-921 blocked [meerkat-committee]
-- 09-10 23:46 batch-921 ok [meerkat-committee]
+- 09-14 12:17 batch-539 ok [kipi-wt3]
+- 09-14 13:06 batch-540 ok [kipi-wt4]
+- 09-14 14:22 batch-541 ok [kipi-wt2]
+- 09-14 17:26 batch-533 ok [kipi-wt3]
+- 09-14 17:58 batch-542 ok [kipi-wt2]
 
 ## 라이브
 - origin/main: 
-2007c29
+99d67b5
 - 미커밋: 
-16
+4
