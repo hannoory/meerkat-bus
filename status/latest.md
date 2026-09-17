@@ -1,20 +1,20 @@
-﻿# 공장 상태 (자동 - 5분 주기)
+# 공장 상태 (자동 - 5분 주기)
 
 생성: 
-2026-09-17 15:14:01
+2026-09-17 15:23:50
 
 ## 맥박
-09-17 15:09 | main=8분전 wt2=일하는중 wt3=일하는중 wt4=일하는중 | 도는배치=1002 | 큐=0 | 러너=산다 | ntfy=5분전 | 저장소=0분전 | 실패=0
+09-17 15:21 | main=19분전 wt2=떴는데안움직임(대화317분전, 배치나이아님)[왜:미커밋 6개: docs/doc-map.md, server/index.ts 외 4개] wt3=일하는중 wt4=17분전[왜:미커밋 2개: public/admin/reset.js, public/admin-cleanup-dryrun-636.test.ts] 귀속못함=640 | 도는배치=640 | 끝난창=637,638,639 | 큐=0 | 러너=산다 | 알림=정상(성공 12분전) | ntfy오늘=54/150·억제20 | 저장소=3분전 | 소유=- | 한도대기=0 | 라이브=최신(문서만 2커밋 앞섬)
 
 ## 최근 보고 (최대 5)
-- 09-17 14:42 batch-1000 ok [meerkat-committee]
-- 09-17 14:51 batch-1001 ok [meerkat-committee]
-- 09-17 14:59 batch-1003 blocked [meerkat-wt4]
-- 09-17 15:01 batch-999 ok [meerkat-wt2]
-- 09-17 15:12 batch-1003 blocked [meerkat-wt4]
+- 09-17 13:18 batch-638 진행중 [kipi-wt3]
+- 09-17 13:30 batch-638 ok [kipi-wt3]
+- 09-17 14:25 batch-639 진행중 [kipi-wt3]
+- 09-17 14:35 batch-639 진행중 [kipi-wt3]
+- 09-17 14:40 batch-639 ok [kipi-wt3]
 
 ## 라이브
 - origin/main: 
-4dbf784
+99409a6
 - 미커밋: 
-2
+3
