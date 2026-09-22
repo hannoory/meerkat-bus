@@ -1,17 +1,17 @@
 ﻿# 공장 상태 (자동 - 5분 주기)
 
 생성: 
-2026-09-22 17:05:28
+2026-09-22 17:11:10
 
 ## 맥박
 09-22 16:59 | main=일하는중 wt2=일하는중 wt3=떴는데안움직임19분 wt4=멈춤22분/미커밋28 | 도는배치=1069,1071 | 큐=0 | 러너=산다 | ntfy=2분전 | 저장소=3분전 | 실패=0 | 생사=main:산다[배치1059] (발사 원장 기준 · 진행 중 배치가 있는 레인만)
 
 ## 최근 보고 (최대 5)
-- 09-22 13:58 batch-1068 ok [meerkat-committee]
 - 09-22 14:08 batch-1068 blocked [meerkat-committee]
 - 09-22 15:34 batch-1068 ok [meerkat-committee]
 - 09-22 15:51 batch-1059 blocked [meerkat-committee]
 - 09-22 16:36 batch-1070 ok [meerkat-wt3]
+- 09-22 17:10 batch-1069 ok [meerkat-wt2]
 
 ## 라이브
 - origin/main: 
